@@ -1,0 +1,6 @@
+  GNU nano 6.2                                                         .gitignore                                                                  
+# Don't track the content of these folders
+aweb_env/
+
+
+
